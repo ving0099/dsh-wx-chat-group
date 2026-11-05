@@ -9,7 +9,7 @@
 
 ```
 请先完整读一遍这个仓库的文档：
-https://github.com/<owner>/<repo>
+https://github.com/ving0099/dsh-wx-chat-group.git
 
 （如果读不到，让用户把 docs/manual.md 的内容贴给你）
 
